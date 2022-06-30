@@ -1,0 +1,105 @@
+Mit der Installation dieses MOD-Pakets erhaltet ihr meine überarbeiteten Versionen der Vanilla-KI's, sowie meine eigenen KIs (meine Totem-KIs; Bär, Hyäne, Schnecke und Skorpion, außerdem Inquisitor, Emira, Raubritter und Efendi!)
+
+Wichtig:
+Legt euch vor der Installation am besten eine Sicherheitskopie oder eine separate Stronghold Crusader-Installation an, da einige Dateien verändert werden.
+
+Installation:
+
+1. SHC "Herrscher des Ostens" MOD herunterladen.
+
+2. Anschließend muss die neueste Version des Unofficial Stronghold Crusader Patch (min. 2.15a) installiert werden. Ihr findet ihn im Hauptordner. Aktuellste Version downloadbar hier: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases 
+--> Startet den Patcher, klickt auf 'Weiter" und wählt in den Reitern "AIV", "AIC" und "Troops" meine entsprechenden Dateien aus. (Jeweils zu erkennen durch das vorangestellte "Crusader Pilaw".) Drückt dann auf "Installieren".
+
+3. Nun können die Dateien aus den Ordnern "binks", "fx" und "gm" in deinen jeweiligen Ordner im Stronghold Crusader (Extreme) Ordner kopiert werden. Diese Ersetzung muss manuell erfolgen, ist allerdings nur einmalig notwendig. 
+(Diese Dateien ersetzen vor allem die Identität vorheriger KI's, also Videos, Sprachnachrichten und Portraits. Falls ihr die ursprünglichen Dateien behalten wollt, denkt daran, euch vorher eine Sicherung anzulegen.)
+--> Die Audiodateien müssen z. B. in den Ordner "speech", welcher sich im Ordner "fx" befindet.
+--> Im gm-Ordner ist vor allem die "interface_icons2.gm1"-Datei wichtig. Diese MUSS in den gm-Ordner eures Spiels eingefügt werden. Optional habe ich euch hier einige Dateien zur Verfügung gestellt, wie ICH sie im Spiel nutze. Hier findet
+ihr zum Beispiel die europäischen Texturen für die Waffenproduktionen und Schwertkämpfer und Ritter. Die "gemischt"-Datei beinhaltet die Waffenproduktionen wie ich sie nutze: Schmieden, Rüstungsschmieden und Pfeilmacher mit europäischem Skin,
+Gerbereien und Lanzenmacher mit Palmendach. Vergesst nicht, jeweils den "europäisch" bzw. "gemischt"-Zusatz zu löschen, wenn ihr die Datei in euren Ordner einfügt! Sonst werden diese vom Spiel nicht erkannt.
+
+4. Zuletzt muss die Datei "cr" sowie "extremeTrail" in den Stronghold Crusader Ordner kopiert werden. (Diese Dateien regeln unter anderem alle Schriftsätze innerhalb des Spiels; also auch Namen etc. der KI's. Wenn ihr eure vorherigen Versionen behaltet wollt,
+benennt sie jeweils einfach um, bevor ihr meine Dateien in euren Ordner kopiert. Etwa: "cr-vanilla" und "extremeTrail-vanilla".)
+--> Falls ihr meine Version des Kreuzzugmarsches spielen wollt, müsst ihr außerdem alle Karten aus dem entsprechenden Ornder (OHNE sie umzubenennen) in euren "mapsExtreme" Ordner kopieren.
+
+5. Nun kann Crusader gestartet werden.
+
+Bei Problemen, Feedback, Fehlern und Verbesserungsvorschlägen:
+Discord: Prinz Pilaw#5003
+Discord-Server von Hacksülze: https://discord.gg/VuVCr8H
+
+Viel Spaß, weitere MODs werden folgen. :)
+
+________________________________________________________________________________________
+
+By installing this mod pack you will receive my reworked vanilla-AIs, as well as my own mods (my totem AIs; Bear, Hyena, Snail and Scorpion and Inquisitor, Emira, Robber Knight and Efendi!).
+
+Important:
+Before installing the pack you should set up a copy of your current crusader installation, since there are a lot of files which will be changed/ swapped out.
+
+Installation:
+
+1. Download the "Herrscher des Ostens" modification.
+
+2. After that you'll need to make sure that you have the newest version of the Unofficial Stronghold Crusader Patch (version 2.15a) installed. You will find it in the main folder. Newest version can always be downloaded here: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases
+--> Start the patcher, click "Continue" and check in the tabs "AIV", "AIC" and "troops" the corresponding files. (Every file with "Crusader Pilaw" in the front.) Press "Install".
+
+3. Now you can copy the data sets from the folders "binks", "fx" und "gm" in the corresponding folder in your OWN Stronghold Crusader (Extreme) game. This replacement has to be done by hand, but you'll only have to do it once.
+(These files mainly replace the AIs' identity; videos, voicelines and portraits. In case you want to keep the old files, remember to save them somewhere.)
+--> The audio files have to be placed in the "speech" folder, which can be found in the "fx" folder.
+--> In the gm folder you'll mainly need the "interface_icons2.gm1"-file. This one HAS to be pasted into your game! Additionaly I added some other gm files in an extra folder. Here you will find skins for workshops and troops I got from the original Stronghold 1 game.
+Remember to name them right by deleting the "europäisch" I added. The "gemischt"-Datei contains the workshops how I am using them: Armourer, Blacksmith and Fletcher with european skins, Poleturner and Tanner with Crusader skins.
+
+4. Lastly you will have to copy the "cr" and "extremeTrail" files into the Stronghold Crusader main folder. (These files manage among other things all text files of the game; so it affects the names of the AIs. Again; if you want to keep the original files remember to save or rename them.)
+--> In case you want to play my version of the Extreme Trail you will also have to copy all maps of the specific folder into your "extremeMaps" folder (WITHOUT renaming them!).
+
+5. Now you can start Stronghold Crusader.
+
+If you are having problems, want to give feedback or have suggestions for improvement:
+Discord: Prinz Pilaw#5003
+Discord server of Hacksülze: https://discord.gg/VuVCr8H
+
+Have fun, one more mod will come out soon. :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penis.
