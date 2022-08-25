@@ -5,7 +5,7 @@ Legt euch vor der Installation am besten eine Sicherheitskopie oder eine separat
 
 Installation:
 
-1. SHC "Herrscher des Ostens" MOD herunterladen.
+1. SHC "Legenden des Ostens" MOD herunterladen.
 
 2. Anschließend muss die neueste Version des Unofficial Stronghold Crusader Patch (min. 2.15a) installiert werden. Ihr findet ihn im Hauptordner. Aktuellste Version downloadbar hier: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases 
 --> Startet den Patcher, klickt auf 'Weiter" und wählt in den Reitern "AIV", "AIC" und "Troops" meine entsprechenden Dateien aus. (Jeweils zu erkennen durch das vorangestellte "Crusader Pilaw".) Drückt dann auf "Installieren".
@@ -38,7 +38,7 @@ Before installing the pack you should set up a copy of your current crusader ins
 
 Installation:
 
-1. Download the "Herrscher des Ostens" modification.
+1. Download the "Legenden des Ostens" modification.
 
 2. After that you'll need to make sure that you have the newest version of the Unofficial Stronghold Crusader Patch (version 2.15a) installed. You will find it in the main folder. Newest version can always be downloaded here: https://github.com/UnofficialCrusaderPatch/UnofficialCrusaderPatch/releases
 --> Start the patcher, click "Continue" and check in the tabs "AIV", "AIC" and "troops" the corresponding files. (Every file with "Crusader Pilaw" in the front.) Press "Install".
@@ -58,7 +58,7 @@ If you are having problems, want to give feedback or have suggestions for improv
 Discord: Prinz Pilaw#5003
 Discord server of Hacksülze: https://discord.gg/VuVCr8H
 
-Have fun, one more mod will come out soon. :)
+Have fun and don't hesitate to give me feedback. :)
 
 
 
