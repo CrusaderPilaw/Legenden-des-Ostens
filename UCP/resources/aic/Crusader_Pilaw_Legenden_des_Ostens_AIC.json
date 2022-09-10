@@ -2305,7 +2305,7 @@ Apát, Kalifa"
 				"MaxWood": 70,
 				"MaxStone": 50,
 				"MaxResourceOther": 20,
-				"MaxEquipment": 6,
+				"MaxEquipment": 5,
 				"MaxBeer": 0,
 				"MaxResourceVariance": 4,
 				"RecruitGoldThreshold": 40,
